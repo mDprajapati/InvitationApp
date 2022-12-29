@@ -1,0 +1,21 @@
+{
+    "users": [{
+        "user_id": 1,
+        "first_name": "Pruthvi",
+        "last_name": "Darji",
+        "email": "pruthvi@test.com",
+        "password": "pruthvi@123"
+    },{
+        "user_id": 2,
+        "first_name": "Parth",
+        "last_name": "Trivedi",
+        "email": "parth@test.com",
+        "password": "parth@123"
+    },{
+        "user_id": 3,
+        "first_name": "Gunjan",
+        "last_name": "K",
+        "email": "gunjan@test.com",
+        "password": "gunjan@123"
+    }]
+}
